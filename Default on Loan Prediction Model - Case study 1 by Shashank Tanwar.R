@@ -1,5 +1,5 @@
 
-#============================Logistic regression Case Study 1 BY SHASHANK TANWAR==========================================================
+#============================Logistic regression- Default on payment - Case Study BY SHASHANK TANWAR==========================================================
 
 #------------------------------Preparing the environment for Logistic Regression---------------------------------------#
 
@@ -449,6 +449,9 @@ summary(FinalModel)
 FinalModel$coefficients
 
 exp(FinalModel$coefficients)
+
+#-------------------------------------------------------End-----------------------------------------------------------------------------------
+
 
 
 
